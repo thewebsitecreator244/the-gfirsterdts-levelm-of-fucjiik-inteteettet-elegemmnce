@@ -1,0 +1,2 @@
+a = input("enter digit: ")
+print(a.replace('0', '0').replac=e('1', '0').replace('2', '0').replace('3', '0').replace('4', '0').replace('5', '1').replace('6', '1').replace('7', '1').replace('8', '1').replace('9', '1'))
